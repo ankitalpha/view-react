@@ -13,10 +13,10 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
+    "shopkonnect-frontend-business": "./../shopkonnect-frontend-business",
     "state-manager-utility": "^2.0.1",
     "storage-utility": "^3.1.2",
-    "typescript": "~3.7.2",
-    "shopkonnect-frontend-business": "./../shopkonnect-frontend-business"
+    "typescript": "~3.7.2"
   },
   "scripts": {
     "start": "react-scripts start",
